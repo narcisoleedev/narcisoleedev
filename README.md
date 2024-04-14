@@ -1,31 +1,6 @@
 <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
-<link href='./styles.css' rel='stylesheet'>
 
-
-<style>
-    body{
-        font-family: Open Sans
-    }
-    main{
-        display: flex;
-        flex: 1;
-        flex-direction: column;
-    }
-    #centerDiv{
-        display: flex;
-        flex-direction: row;
-        margin-bottom: 50px
-    }
-    #iconsDiv{
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: center;
-    }
-    #iconsDiv a{
-        margin-right: 10px;
-    }
-</style>
+<link href='./style.css' rel='stylesheet'>
 
 <main>
 
