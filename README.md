@@ -1,4 +1,6 @@
 <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+<link href='./styles.css' rel='stylesheet'>
+
 
 <style>
     body{
@@ -22,10 +24,6 @@
     }
     #iconsDiv a{
         margin-right: 10px;
-    }
-    footer{
-        text-align: left;
-        color: white;
     }
 </style>
 
